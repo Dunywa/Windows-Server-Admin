@@ -44,10 +44,9 @@
 - VirtualBox
 - Windows 10
 
-
 # Project Walkthrough
 
-### Virtual Machine Setup
+## Virtual Machine Setup
 -The virtual machine for the server is created using VirtualBox 
 - VirtualBox is an open-source hypervisor created and maintained by Oracle.
  
@@ -121,27 +120,83 @@
 ![VM 17](https://github.com/user-attachments/assets/01916e78-cfb6-4a67-93ea-a63da85a6532)
 
 -Summary.
-- The Virtual Machine has been setup and were ready to install our server
+- The Virtual Machine has been set up and we are ready to install our server
 
 ![VM 18](https://github.com/user-attachments/assets/6dea16ea-2d7e-4a8e-8871-9f1b8be29619)
 
+## Windows Server 2022 Installation
 
+-It's time to start our VM to start the installation. 
+- To do that we press start to boot our VM 
 
+![VM 1](https://github.com/user-attachments/assets/72c762d8-2371-4976-9d40-236e3d03c47b)
 
+-We continue the installation by choosing language and date preference
 
+![VM 1](https://github.com/user-attachments/assets/37028935-2dc4-4c17-bb62-756d3e339b5b)
 
+-From here we start with our fresh installation.
 
+![VM 2](https://github.com/user-attachments/assets/c8522a60-22a0-4ba1-ab9d-f792d570140f)
 
+-We want to choose the standard edition as we're not running our server in a highly virtualized environment. 
 
+-There are 4 versions released with Windows Server 2022
+- Windows Server 2022 Essential: Ideal for Small Businesses with 25 users and 50 devices.
+- Windows Server 2022 Standard: Ideal for Physical or minimally virtualized environments.
+- Windows Server 2022 Datacenter: Ideal for highly virtualized datacenters.
+- Windows Server 2022 Azure: Ideal for running server as a VM in Azure 
 
+![VM 3](https://github.com/user-attachments/assets/b4e24a69-5078-43af-957b-fe0747a35bde)
 
+![VM 4](https://github.com/user-attachments/assets/a79a806c-3e48-406c-8b19-c4c531862bb1)
 
+-We choose custom installation to achieve a fresh install
 
+![VM 5](https://github.com/user-attachments/assets/3891fe1a-8791-41b5-948c-86a0f3c13f55)
 
+-We want to store the operating system in the Virtual Hard Disk(VDI) we created.
 
+-We can then start our installation.
 
+![VM 6](https://github.com/user-attachments/assets/ddb9c2d4-6970-481f-a4a7-8fbed6956964)
 
+![VM 7](https://github.com/user-attachments/assets/eb754c27-15b7-43ba-a5a7-b2cac84f0457)
 
+-A strong password for the built-in administrator account needs to be created at this point to use for logging in 
+
+![VM 8](https://github.com/user-attachments/assets/af7f25ad-008b-4447-962c-b722f5e1748d)
+
+-Installation has been done. We can log in to the server.
+
+![VM 10](https://github.com/user-attachments/assets/894fc7a3-b267-4356-93bb-e60786eeb0c9)
+
+![VM 11](https://github.com/user-attachments/assets/c019bcb4-7f5a-4508-87b8-fdc41c5a3c43)
+
+-We're done installing the Server. There are post-installation tasks to do before we can add any roles and features to our server
+- Updating the server.
+- Disabling IPv6.
+- Renaming the Server.
+- Verifying Activation
+
+-Renaming the Server to identify it on the network.
+![VM 17](https://github.com/user-attachments/assets/4a887643-5317-434c-9eb0-b8a6e4191d06)
+
+-Installing the latest updates.
+
+![VM 22](https://github.com/user-attachments/assets/12467ef1-2cdf-447a-bff5-4e15f769b3f5)
+
+-Disable IPv6 to avoid network issues.
+
+![VM 20](https://github.com/user-attachments/assets/25e89cc2-f99e-44ea-b337-070bfa7bb747)
+
+-Lastly, we need to verify the activation and restart the server
+
+![VM 18](https://github.com/user-attachments/assets/04d5c10d-da85-4b7d-aa35-decceb33ed7b)
+
+-Now everything looks good we can move on to install the Active Directory Domain Services
+
+![VM 23](https://github.com/user-attachments/assets/29156a4e-95c7-4b7d-8fbd-578142fc9bd7)
 
 
 
