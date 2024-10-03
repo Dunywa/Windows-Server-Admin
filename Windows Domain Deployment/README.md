@@ -14,7 +14,7 @@
 - [Project Walkthrough](#project-walkthrough)
     - [Virtual Machine Setup](#virtual-machine-setup)
     - [Windows Server 2022 Installation](#windows-server-2022-installation)
-    - [Domain Deployment - Active Directory](#virtual-machine-setup)
+    - [Domain Deployment - Active Directory](#domain-deployment---active-directory)
 
 
 # Project Overview.
