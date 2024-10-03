@@ -6,15 +6,15 @@
 
 - [Table of contents.](#table-of-contents)
 - [Project Overview.](#project-overview)
-- [Tasks](tasks)
+- [Tasks](#tasks)
 - [Tools and Utilities.](#tools-and-utilities)
 - [Skills Gained.](#skills-gained)    
 - [Network Diagram](#network-diagram)
-- [Links.](#what-is-purplelab-)
-- [Project Walkthrough](#what-is-purplelab-)
+- [Links.](#links)
+- [Project Walkthrough](#project-walkthrough)
     - [Virtual Machine Setup](#virtual-machine-setup)
     - [Windows Server 2022 Installation](#windows-server-2022-installation)
-    - [Virtual Machine Setup](#virtual-machine-setup)
+    - [Domain Deployment - Active Directory](#virtual-machine-setup)
 
 
 # Project Overview.
