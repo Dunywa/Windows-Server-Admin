@@ -94,7 +94,7 @@
 
 -It's also time to modify the boot order, putting first the optical drive to which we're attaching the ISO Image for installing the server.
 
--The second boot device is the Virtual Hard Disk. IT will store the operating system after installation and it will become our boot device after installation. 
+-The second boot device is the Virtual Hard Disk. It will store the operating system after installation and it will become our boot device after installation. 
 
 ![VM 9](https://github.com/user-attachments/assets/0e85c9c5-009a-4d69-9d4b-422bf662234d)
 
@@ -165,7 +165,7 @@
 
 ![VM 7](https://github.com/user-attachments/assets/eb754c27-15b7-43ba-a5a7-b2cac84f0457)
 
--A strong password for the built-in administrator account needs to be created at this point to use for logging in 
+-A strong password for the built-in administrator account needs to be created at this point to use for logging in.
 
 ![VM 8](https://github.com/user-attachments/assets/af7f25ad-008b-4447-962c-b722f5e1748d)
 
