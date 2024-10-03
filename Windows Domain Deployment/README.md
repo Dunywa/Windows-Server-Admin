@@ -18,12 +18,12 @@
 
 
 # Project Overview.
--The project walks through the deployment of Windows Server 2022 and promoting the server into a domain controller to host Active Directory Domain Services.
+-The project walks through the deployment of Windows Server 2022 and promotes the server into a domain controller to host Active Directory Domain Services.
 
 # Tasks
 - First, we set up the Windows Server 2022 virtual machine.
 - We then boot the virtual machine and install our server.
-- After installing the server, we will add the Active Directory role and features and promote the server into a Domain Controller.
+- After installing the server, we add the Active Directory role and features and promote the server into a Domain Controller.
 
 # Tools and Utilities.
 - Oracle VirtualBox.
