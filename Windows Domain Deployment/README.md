@@ -1,6 +1,27 @@
+## Project Overview
+The project walks through the deployment of Windows Server 2022 and promoting the server to a domain controller to host Active Directory Domain Services.
 
-![VM 1](https://github.com/user-attachments/assets/a5837c98-c261-4a0b-9bf0-94d693dd90fa)
+
+## Tools and Utilities
+-Oracle VirtualBox.
+-Windows Server 2022.
+-Active Directory.
+-Server Manager.
+
+
+## Skills Gained
+-Virtualization.
+-Windows Server Installation.
+-Active Directory Roles and Features.
+-Server Management.
+
+## Network Diagram
 
 
 
-![VM 2](https://github.com/user-attachments/assets/6a184d9e-373b-409c-9ef1-77d8b95d8557)
+## Links
+
+
+
+## Project Walkthrough
+### Virtual Machine Setup
