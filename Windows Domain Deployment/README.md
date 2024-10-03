@@ -44,7 +44,7 @@
 # Links.
 - Windows Server 2022
 - VirtualBox
-- Windows 10
+- Windows 10 Enterprise
 
 # Project Walkthrough
 
